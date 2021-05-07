@@ -78,6 +78,7 @@ function SpecialBonus:updateTempoCycle (dt)
     self.tempo_time = SCORE_TIME
   elseif self.state == BONUS_STATES.countdown and self.tempo_time < 0 then 
     self.bonus_score = self.bonus_score - 1000
+    self.main_score:increaseSpecialBonusScore()
     if self.bonus_score == 0 then
       self.tempo_time = self.tempo_time + TEMPO_END_TIME
       self.state = BONUS_STATES.end_tempo

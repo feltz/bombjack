@@ -1,0 +1,27 @@
+https://www.spriters-resource.com/arcade/bombjack/
+
+https://www.planetemu.net/article/bomb-jack
+https://strategywiki.org/wiki/Bomb_Jack/Getting_Started
+
+Score : http://tips.retrogames.com/gamepage/bombjack.html
+        http://www.bomb-jack.com/history_of_bombjack.htm
+
+Niveaux : https://strategywiki.org/wiki/Bomb_Jack/Walkthrough
+
+Sons:
+https://downloads.khinsider.com/game-soundtracks/album/bomb-jack-arcade
+
+Libs Lua : 
+--------
+
+https://github.com/drhayes/TESound
+LuaSocket
+
+SQLAlschemy :
+https://towardsdatascience.com/use-flask-and-sqlalchemy-not-flask-sqlalchemy-5a64fafe22a4
+https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/#SQLAlchemy-Introduction
+https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-apps-part-1/
+
+Postgresql&Ansible : https://severalnines.com/database-blog/postgresql-deployment-and-maintenance-ansible
+
+Gunicorn & nginx : https://www.obeythetestinggoat.com/book/appendix_III_provisioning_with_ansible.html

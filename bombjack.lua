@@ -21,6 +21,7 @@ end
 
 function Bombjack:reset ()
   self.x, self.y = SCREEN_W / 2, SCREEN_H / 2 - 8
+  self.vy = 0
   self.quad = quads.bj_idle
   self.state = STATES.PLAYING
   self.on_the_floor = false
@@ -66,11 +67,10 @@ end
 
 function Bombjack:checkCollisionWithEnnemies()
   for index, ennemy in ipairs (self.game.ennemies) do
-    if self:checkCollisionWithSprite (ennemy) then
+    if not ennemy:ignoreCollision() and self:checkCollisionWithSprite (ennemy) then
       if self.state == STATES.PLAYING_ENNEMY_FREEZE then
         self.game:killEnnemy(ennemy, index)
-      else
-        self.lifes = self.lifes - 1
+      else      
         self.state = STATES.DANCING
         self.vy = 0
         self:enableAnim (quads.bj_dancing, 2, 3, 0.5)
@@ -140,6 +140,7 @@ function Bombjack:update(dt, limits, plateforms)
   elseif self.state == STATES.END_OF_PLAY then
     self.waiting_for_display = self.waiting_for_display - dt
     if self.waiting_for_display < 0 then
+      self.lifes = self.lifes - 1
       if self.lifes < 0 then
         self.game:gameover()
       else      
@@ -179,6 +180,8 @@ function Bombjack:keypressed(key)
       else
         self.vy = 0
       end
+    elseif key == "escape" then
+      menu_displayed = true
     end
   end
 end

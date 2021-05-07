@@ -28,6 +28,10 @@ function Mummy:__tostring()
   return "<Mummy: direction="..tostring(self.direction).."\n"..Mummy.super.__tostring (self) .. ">"
 end
 
+function Mummy:ignoreCollision()
+  return self.appearing or self.disappearing
+end
+
 function Mummy:update(dt, limits, speed_factor)
   local new_directions = {}
   Mummy.super.update(self, dt, limits, speed_factor, self.direction.left, self.direction.right, false, new_directions, self.appearing or self.disappearing)  
@@ -70,9 +74,9 @@ function Mummy:update(dt, limits, speed_factor)
       self.count_change_dir = 0
       -- On s'assure qu'il tombe bien en le poussant un peu à gauche ou à droite
       if self.direction.left then
-        self.x = self.x - 7 
+        self.x = self.x - 2
       elseif self.direction.right then
-        self.x = self.x + 7 
+        self.x = self.x + 2 
       end
       if #TEsound.findTag("mummy_fall") == 0 then
         TEsound.play (SOUNDS.mummy_fall, "static", "mummy_fall")

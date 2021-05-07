@@ -48,9 +48,12 @@ end
 
 function Score:applySpecialBonusScore ()
   if self:getSpecialBonusScore() > 0 then
-    self.score = self.score + self:getSpecialBonusScore()
     self.level_score = self.level_score .. 'X' .. tostring (self.catched%10)
   end
+end
+
+function Score:increaseSpecialBonusScore()
+  self.score = self.score + 1000
 end
 
 function Score:getSpecialBonusScore ()
