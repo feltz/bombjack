@@ -1,0 +1,371 @@
+{"A":{"Block":[[ 0, 13, 14, 15,  0,  0, 24, 23, 22]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0,  0,  0,  0,  1,  2,  3,  4,  0]
+             , [ 9,  0,  0,  0,  0,  0,  0,  0,  5]
+             , [10,  0,  0,  0,  0,  0,  0,  0,  6]
+             , [11,  0,  0,  0,  0,  0,  0,  0,  7]
+             , [12,  0,  0,  0,  0,  0,  0,  0,  8]
+             , [ 0,  0,  0,  0,  0, 18, 17, 16,  0]
+             , [ 0, 21, 20, 19,  0,  0,  0,  0,  0]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":6,  "y":9,  "l":4}
+                            , {"Sym":"H", "x":15, "y":6,  "l":7}     
+                            , {"Sym":"H", "x":12, "y":18, "l":6}     
+                            , {"Sym":"H", "x":3,  "y":21, "l":4}     
+                            , {"Sym":"H", "x":16, "y":24, "l":9}
+                             ]
+              , "Mummy_X": [8, 19]
+               }
+     }
+,"B":{"Block":[[ 0,  0,  0, 12, 11, 10,  0,  0,  0]
+             , [13, 14, 15,  0,  0,  0,  4,  5,  6]
+             , [ 0,  0,  0,  9,  8,  7,  0,  0,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0, 16, 17, 18,  0,  1,  2,  3,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0, 19, 20, 21,  0, 22, 23, 24,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":1,  "y":9,  "l":5}
+                            , {"Sym":"H", "x":22, "y":9,  "l":5}     
+                            , {"Sym":"H", "x":4,  "y":15, "l":5}     
+                            , {"Sym":"H", "x":19, "y":15, "l":5}     
+                            , {"Sym":"H", "x":6,  "y":21, "l":5}
+                            , {"Sym":"H", "x":16, "y":21, "l":5}
+                             ]
+              , "Mummy_X": [5, 22]
+               }
+     }
+, "C":{"Block":[[17, 16,  0,  0,  0,  0,  0, 12, 13]
+             , [ 0,  0, 15, 14,  0, 10, 11,  0,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0,  0,  0,  3,  0,  4,  0,  0,  0]
+             , [ 0,  0,  0,  2,  0,  5,  0,  0,  0]
+             , [ 0,  0,  0,  1,  0,  6,  0,  0,  0]
+             , [22, 23, 24,  0,  0,  0,  7,  8,  9]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0,  0, 18, 19,  0, 20, 21,  0,  0]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":7,  "y":6,  "l":5}
+                            , {"Sym":"H", "x":17, "y":6,  "l":5}     
+                            , {"Sym":"H", "x":12, "y":18, "l":4}     
+                            , {"Sym":"H", "x":3,  "y":21, "l":4}     
+                            , {"Sym":"H", "x":21, "y":21, "l":4}
+                             ]
+              , "Mummy_X": [7, 17]
+               }
+     }
+,"D":{"Block":[[ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [16, 17, 18,  0,  0,  0, 13, 14, 15]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [10, 11, 12,  0,  0,  0,  7,  8,  9]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0,  6,  5,  4,  0,  1,  2,  3,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [19, 20, 21,  0,  0,  0, 22, 23, 24]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":4,  "y":6,  "l":5}
+                            , {"Sym":"H", "x":19, "y":6,  "l":5}    
+                            , {"Sym":"H", "x":4,  "y":21, "l":5}
+                            , {"Sym":"H", "x":19, "y":21, "l":5}
+                             ]
+              , "Mummy_X": [4, 23]
+               }
+     }
+, "E":{"Block":[[ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0,  4,  0, 13,  0, 22,  0, 16,  0]
+             , [ 0,  5,  0, 14,  0, 23,  0, 17,  0]
+             , [ 0,  6,  0, 15,  0, 24,  0, 18,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0,  7,  0,  1,  0, 10,  0, 19,  0]
+             , [ 0,  8,  0,  2,  0, 11,  0, 20,  0]
+             , [ 0,  9,  0,  3,  0, 12,  0, 21,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]]
+     , "Floor":{"Platforms": []
+              , "Mummy_X": [7, 19]
+               }
+     }
+,"F":{"Block":[[22, 21,  0,  0,  0,  0,  0, 23, 24]
+             , [ 0,  0,  0,  0, 20, 19,  0,  0,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 3,  2,  1,  0,  0,  0, 14, 13, 12]
+             , [ 4,  0,  0,  0,  0,  0,  0,  0, 11]
+             , [ 5,  0,  0,  0,  0,  0,  0,  0, 10]
+             , [ 6,  0, 18, 17,  0, 16, 15,  0,  9]
+             , [ 7,  0,  0,  0,  0,  0,  0,  0,  8]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":13, "y":6,  "l":4}
+                            , {"Sym":"H", "x":1,  "y":9,  "l":8}    
+                            , {"Sym":"H", "x":5,  "y":18, "l":13, "corners": {"corner_right":true}}
+                            , {"Sym":"H", "x":17, "y":12, "l":6 , "corners": {"corner_left":true}}
+                            , {"Sym":"V", "x":17, "y":18, "l":5 , "corners": {"corner_bottom_left":true, "corner_up_right":true}}
+                             ]
+              , "Mummy_X": [4, 19]
+               }
+     }
+,"G":{"Block":[[ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0,  4,  5,  6,  0,  7,  8,  9,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0,  1,  2,  3,  0, 19, 20, 21,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [10,  0,  0, 22,  0, 16,  0,  0, 13]
+             , [11,  0,  0, 23,  0, 17,  0,  0, 14]
+             , [12,  0,  0, 24,  0, 18,  0,  0, 15]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":12, "y":6,  "l":4}
+                            , {"Sym":"H", "x":6,  "y":12, "l":6}    
+                            , {"Sym":"H", "x":16, "y":12, "l":6}    
+                            , {"Sym":"H", "x":6,  "y":15, "l":6}    
+                            , {"Sym":"H", "x":16, "y":15, "l":6}    
+                            , {"Sym":"H", "x":12, "y":21, "l":4}    
+                             ]
+              , "Mummy_X": [9, 19]
+               }
+     }  
+,"H":{"Block":[[ 0, 10,  0,  0,  0,  0,  0, 13,  0]
+             , [ 0, 11,  0,  7,  0, 16,  0, 14,  0]
+             , [ 0, 12,  0,  8,  0, 17,  0, 15,  0]
+             , [ 0,  0,  0,  9,  0, 18,  0,  0,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 3,  2,  1,  0,  0,  0, 24, 23, 22]
+             , [ 0,  0,  6,  0,  0,  0, 21,  0,  0]
+             , [ 0,  0,  5,  0,  0,  0, 20,  0,  0]
+             , [ 0,  0,  4,  0,  0,  0, 19,  0,  0]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":4,  "y":9,  "l":6, "corners": {"corner_right":true}}
+                            , {"Sym":"H", "x":18, "y":9,  "l":6, "corners": {"corner_left":true}}
+                            , {"Sym":"H", "x":4 , "y":18, "l":6, "corners": {"corner_right":true}}
+                            , {"Sym":"H", "x":18, "y":18, "l":6, "corners": {"corner_left":true}}
+                            , {"Sym":"V", "x":9,  "y":9, "l":5, "corners": {"corner_bottom_left":true}}
+                            , {"Sym":"V", "x":18, "y":9, "l":5, "corners": {"corner_bottom_right":true}}
+                            , {"Sym":"V", "x":9,  "y":24, "l":5, "corners": {"corner_up_left":true}}
+                            , {"Sym":"V", "x":18, "y":24, "l":5, "corners": {"corner_up_right":true}}
+                             ]
+              , "Mummy_X": [4, 19]
+               }
+     }   
+,"I":{"Block":[[ 0,  0,  0,  0,  0, 15, 14, 13,  0]
+             , [ 0, 19, 18,  0,  0,  0,  0,  0,  0]
+             , [ 0, 20, 17,  0,  0,  0,  9,  8,  7]
+             , [ 0, 21, 16,  0,  0,  0,  0,  0,  0]
+             , [ 0,  0,  0,  0,  0,  1,  2,  3,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0, 22, 23, 24,  0,  0,  4,  0, 10]
+             , [ 0,  0,  0,  0,  0,  0,  5,  0, 11]
+             , [ 0,  0,  0,  0,  0,  0,  6,  0, 12]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":13, "y":3,  "l":3, "corners": {"corner_left":true}}
+                            , {"Sym":"H", "x":13, "y":6,  "l":4, "corners": {"corner_left":true} }   
+                            , {"Sym":"H", "x":9,  "y":9,  "l":8}
+                            , {"Sym":"H", "x":13, "y":12, "l":4 , "corners": {"corner_left":true}}
+                            , {"Sym":"H", "x":13, "y":15, "l":9 , "corners": {"corner_left":true}}
+                            , {"Sym":"H", "x":13, "y":18, "l":4 , "corners": {"corner_left":true}}
+                            , {"Sym":"H", "x":3,  "y":21, "l":13}
+                            , {"Sym":"H", "x":13, "y":24, "l":4,  "corners": {"corner_left":true}}
+                            , {"Sym":"V", "x":13, "y":6,  "l":2,  "corners": {"corner_up_right":true, "corner_bottom_right":true}}
+                            , {"Sym":"V", "x":13, "y":12, "l":2,  "corners": {"corner_up_middle":true, "corner_bottom_right":true}}
+                            , {"Sym":"V", "x":13, "y":18, "l":2,  "corners": {"corner_up_right":true, "corner_bottom_right":true}}
+                            , {"Sym":"V", "x":13, "y":24, "l":2,  "corners": {"corner_up_middle":true, "corner_bottom_right":true}}
+                             ]
+              , "Mummy_X": [9, 19]
+               }
+     }      
+,"J":{"Block":[[ 0, 10,  0,  0,  0,  0,  0,  4,  0]
+             , [ 0, 11,  0,  0,  0, 16,  0,  5,  0]
+             , [ 0, 12, 22,  0,  0, 17,  0,  6,  0]
+             , [ 0,  0, 23,  0,  0, 18,  0,  0,  0]
+             , [ 0,  0, 24,  0,  0,  0, 19,  0,  0]
+             , [ 0,  0,  0,  1,  0,  0, 20,  0,  0]
+             , [13,  0,  0,  2,  0,  0, 21,  0,  7]
+             , [14,  0,  0,  3,  0,  0,  0,  0,  8]
+             , [15,  0,  0,  0,  0,  0,  0,  0,  9]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":6,  "y":6,  "l":8, "corners": {"corner_left":true}}
+                            , {"Sym":"H", "x":18, "y":6,  "l":4, "corners": {"corner_right":true}}
+                            , {"Sym":"H", "x":6,  "y":21, "l":4, "corners": {"corner_left":true}}
+                            , {"Sym":"H", "x":14, "y":21, "l":8, "corners": {"corner_right":true}}
+                            , {"Sym":"V", "x":6,  "y":21, "l":14, "corners": {"corner_up_right":true, "corner_bottom_right":true}}
+                            , {"Sym":"V", "x":21, "y":21, "l":14, "corners": {"corner_up_left":true, "corner_bottom_left":true}}
+                             ]
+              , "Mummy_X": [4, 19]
+               }
+     }
+,"K":{"Block":[[19,  0,  0,  0,  0,  0, 10, 11, 12]
+             , [20,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [21,  0,  0, 18, 17, 16,  0,  0, 15]
+             , [ 0, 22,  0,  0,  0,  0,  0, 13, 14]
+             , [ 0, 23,  0,  0,  0,  0,  0,  1,  0]
+             , [ 0, 24,  0,  0,  0,  0,  0,  2,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  3,  4]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  5]
+             , [ 9,  8,  7,  0,  0,  0,  0,  0,  6]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":22, "y":6,  "l":5}    
+                            , {"Sym":"H", "x":1,  "y":9,  "l":5}
+                            , {"Sym":"H", "x":22, "y":12, "l":5}    
+                            , {"Sym":"H", "x":1,  "y":15, "l":5}    
+                            , {"Sym":"H", "x":22, "y":18, "l":5}    
+                            , {"Sym":"H", "x":1,  "y":21, "l":5}    
+                             ]
+              , "Mummy_X": [3, 23]
+               }
+     }
+,"L":{"Block":[[ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0, 18, 17, 16,  0,  7,  8,  9,  0]
+             , [10,  0,  0,  0,  0,  0,  0,  0, 19]
+             , [11,  0,  0,  4,  0,  3,  0,  0, 20]
+             , [12,  0,  0,  5,  0,  2,  0,  0, 21]
+             , [ 0, 13,  0,  6,  0,  1,  0, 22,  0]
+             , [ 0, 14,  0,  0,  0,  0,  0, 23,  0]
+             , [ 0, 15,  0,  0,  0,  0,  0, 24,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":6,  "y":6,  "l":15, "corners": {"corner_left":true, "corner_right":true}}
+                            , {"Sym":"H", "x":12, "y":18, "l":4}    
+                            , {"Sym":"V", "x":6, "y":18, "l":11, "corners": {"corner_up_right":true}}
+                            , {"Sym":"V", "x":20, "y":18, "l":11 , "corners": {"corner_up_left":true}}
+                             ]
+              , "Mummy_X": [7, 19]
+               }
+     }   
+,"M":{"Block":[[ 0, 15, 14, 13,  0, 12, 11, 10,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0,  0,  6,  0,  0,  0, 19,  0,  0]
+             , [16,  0,  5,  0,  0,  0, 20,  0,  9]
+             , [17,  0,  4,  0,  0,  0, 21,  0,  8]
+             , [18,  0,  0, 22,  0,  1,  0,  0,  7]
+             , [ 0,  0,  0, 23,  0,  2,  0,  0,  0]
+             , [ 0,  0,  0, 24,  0,  3,  0,  0,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":7,  "y":3,  "l":5}
+                            , {"Sym":"H", "x":16, "y":3,  "l":5}    
+                            , {"Sym":"H", "x":12, "y":9,  "l":4}
+                            , {"Sym":"H", "x":12, "y":18, "l":4}
+                            , {"Sym":"H", "x":7,  "y":24, "l":5}
+                            , {"Sym":"H", "x":16, "y":24, "l":5}
+                            , {"Sym":"V", "x":3,  "y":12, "l":5}
+                            , {"Sym":"V", "x":24, "y":12, "l":5}
+                            , {"Sym":"V", "x":9, "y":16, "l":4}
+                            , {"Sym":"V", "x":18, "y":16, "l":4}
+                            , {"Sym":"V", "x":3,  "y":21, "l":5}
+                            , {"Sym":"V", "x":24, "y":21, "l":5}
+                             ]
+              , "Mummy_X": [10, 19]
+               }
+     }      
+,"N":{"Block":[[ 0,  0,  0,  0,  0,  0,  7,  0,  0]
+             , [ 0,  0,  0,  0, 19,  0,  8,  0,  0]
+             , [24, 23, 22,  0, 20,  0,  9, 10,  4]
+             , [ 0,  0,  0,  0, 21,  0,  0, 11,  5]
+             , [ 0, 13,  0,  0,  0,  0,  0, 12,  6]
+             , [ 0, 14,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0, 15, 16,  0,  0,  0,  0,  0,  0]
+             , [ 0,  0, 17,  0,  0,  1,  2,  3,  0]
+             , [ 0,  0, 18,  0,  0,  0,  0,  0,  0]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":6,  "y":3,  "l":10, "corners": {"corner_right":true}}
+                            , {"Sym":"H", "x":3,  "y":12, "l":7,  "corners": {"corner_left":true}}    
+                            , {"Sym":"H", "x":18, "y":15, "l":7,  "corners": {"corner_right":true}}
+                            , {"Sym":"H", "x":12, "y":24, "l":10, "corners": {"corner_left":true}}
+                            , {"Sym":"V", "x":15, "y":10, "l":6,  "corners": {"corner_up_left":true}}
+                            , {"Sym":"V", "x":3,  "y":23, "l":10, "corners": {"corner_up_right":true}}
+                            , {"Sym":"V", "x":24, "y":15, "l":9,  "corners": {"corner_bottom_left":true}}
+                            , {"Sym":"V", "x":12, "y":24, "l":6,  "corners": {"corner_bottom_right":true}}
+                             ]
+              , "Mummy_X": [12, 20]
+               }
+     }      
+,"O":{"Block":[[ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0, 16,  0, 15, 14, 13,  0, 12,  0]
+             , [ 0,  0,  0, 17, 18, 19,  0,  0,  0]
+             , [ 0,  4,  3,  0,  0,  0,  9, 20,  0]
+             , [ 0,  5,  2,  0,  0,  0, 10, 21,  0]
+             , [ 0,  6,  1,  0,  0,  0, 11, 22,  0]
+             , [ 0,  7,  0,  0,  0,  0,  0, 23,  0]
+             , [ 0,  8,  0,  0,  0,  0,  0, 24,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":10, "y":6,  "l":8}
+                            , {"Sym":"H", "x":10, "y":21, "l":8}
+                            , {"Sym":"V", "x":6,  "y":18, "l":8}
+                            , {"Sym":"V", "x":21, "y":18, "l":8}
+                             ]
+              , "Mummy_X": [11, 17]
+               }
+     } 
+,"P":{"Block":[[ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [12, 11, 10,  0,  0,  0,  9,  8,  7]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0,  0, 13, 14,  0, 15, 16,  0,  0]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [22, 21, 20,  0,  0,  0, 19, 18, 17]
+             , [ 0,  0,  0,  0,  0,  0,  0,  0,  0]
+             , [ 0,  0, 23, 24,  0,  1,  2,  0,  0]
+             , [ 6,  5,  0,  0,  0,  0,  0,  3,  4]]
+     , "Floor":{"Platforms": [{"Sym":"H", "x":3,  "y":6,  "l":4}
+                            , {"Sym":"H", "x":12, "y":6,  "l":4}    
+                            , {"Sym":"H", "x":21, "y":6,  "l":4}
+                            , {"Sym":"H", "x":7,  "y":12, "l":4}
+                            , {"Sym":"H", "x":16, "y":12, "l":4}    
+                            , {"Sym":"H", "x":3,  "y":18, "l":4}
+                            , {"Sym":"H", "x":12, "y":18, "l":4}
+                            , {"Sym":"H", "x":21, "y":18, "l":4}
+                            , {"Sym":"H", "x":7,  "y":24, "l":4}
+                            , {"Sym":"H", "x":16, "y":24, "l":4}
+                             ]
+              , "Mummy_X": [4, 22]
+               }
+     }      
+, "Levels":[{"level": 1, "screen":1, "color":"Platform1", "letter":"A", "birds":1, "init_speed_factor":1, "mummy_bouncing":3
+                       , "mummies":["Sphere", "Sphere", "Sphere", "Ufo"]}
+          , {"level": 2, "screen":2, "color":"Platform2", "letter":"B", "birds":1, "init_speed_factor":1, "mummy_bouncing":3
+                       , "mummies":["Horn", "Horn", "Horn", "Ufo", "Horn"]}
+          , {"level": 3, "screen":3, "color":"Platform1", "letter":"C", "birds":2, "init_speed_factor":2, "mummy_bouncing":1
+                       , "mummies":["Orb", "Orb", "Sphere", "Sphere", "Orb", "Orb"]}
+          , {"level": 4, "screen":4, "color":"Platform3", "letter":"D", "birds":2, "init_speed_factor":3, "mummy_bouncing":1
+                       , "mummies":["Horn", "Horn", "Sphere", "Sphere", "Horn", "Horn", "Horn"]}
+          , {"level": 5, "screen":5, "color":"Platform4", "letter":"E", "birds":2, "init_speed_factor":4
+                       , "mummies":["Orb", "Orb", "Orb", "Orb", "Orb", "Orb", "Orb"]}
+          , {"level": 6, "screen":1, "color":"Platform1", "letter":"F", "birds":2, "init_speed_factor":4
+                       , "mummies":["Sphere", "Orb", "Sphere", "Orb"]}
+          , {"level": 7, "screen":2, "color":"Platform2", "letter":"G", "birds":2, "init_speed_factor":4, "mummy_bouncing":1
+                       , "mummies":["Ufo", "Ufo", "Ufo", "Sphere", "Ufo"]}
+          , {"level": 8, "screen":3, "color":"Platform1", "letter":"H", "birds":2, "init_speed_factor":5
+                       , "mummies":["Sphere", "Sphere", "Sphere", "Sphere", "Sphere", "Sphere"]}
+          , {"level": 9, "screen":4, "color":"Platform3", "letter":"I", "birds":2, "init_speed_factor":5
+                       , "mummies":["Club", "Club", "Club", "Club", "Club", "Club", "Club"]}
+          , {"level":10, "screen":5, "color":"Platform4", "letter":"A", "birds":2, "init_speed_factor":5
+                       , "mummies":["Horn", "Horn", "Ufo", "Ufo", "Orb", "Orb", "Ufo"]}
+          , {"level":11, "screen":1, "color":"Platform1", "letter":"J", "birds":2, "init_speed_factor":5
+                       , "mummies":["Sphere", "Sphere", "Sphere", "Sphere"]}
+          , {"level":12, "screen":2, "color":"Platform2", "letter":"K", "birds":2, "init_speed_factor":5
+                       , "mummies":["Club", "Club", "Club", "Ufo"]}
+          , {"level":13, "screen":3, "color":"Platform1", "letter":"L", "birds":2, "init_speed_factor":5
+                       , "mummies":["Ufo", "Ufo", "Horn", "Horn", "Horn", "Horn"]}
+          , {"level":14, "screen":4, "color":"Platform3", "letter":"M", "birds":2, "init_speed_factor":5
+                       , "mummies":["Orb", "Orb", "Orb", "Orb", "Ufo", "Ufo", "Ufo"]}
+          , {"level":15, "screen":5, "color":"Platform4", "letter":"E", "birds":2, "init_speed_factor":6
+                       , "mummies":["Ufo", "Club", "Ufo", "Orb", "Ufo", "Ufo", "Sphere"]}
+          , {"level":16, "screen":1, "color":"Platform1", "letter":"N", "birds":2, "init_speed_factor":5
+                       , "mummies":["Club", "Ufo", "Horn", "Sphere"]}
+          , {"level":17, "screen":2, "color":"Platform2", "letter":"O", "birds":2, "init_speed_factor":5
+                       , "mummies":["Horn", "Horn", "Ufo", "Ufo", "Orb"]}
+          , {"level":18, "screen":3, "color":"Platform1", "letter":"P", "birds":2, "init_speed_factor":5
+                       , "mummies":["Sphere", "Sphere", "Sphere", "Sphere", "Orb", "Orb"]}
+          , {"level":19, "screen":4, "color":"Platform3", "letter":"B", "birds":2, "init_speed_factor":5
+                       , "mummies":["Club", "Club", "Club", "Ufo", "Ufo", "Ufo"]}
+          , {"level":20, "screen":5, "color":"Platform4", "letter":"N", "birds":2, "init_speed_factor":6
+                       , "mummies":["Ufo", "Ufo", "Ufo", "Ufo", "Horn", "Horn", "Horn"]}
+          , {"level":21, "screen":1, "color":"Platform1", "letter":"K", "birds":2, "init_speed_factor":5
+                       , "mummies":["Orb", "Orb", "Orb", "Orb"]}
+          , {"level":22, "screen":2, "color":"Platform2", "letter":"G", "birds":2, "init_speed_factor":5
+                       , "mummies":["Club", "Ufo", "Ufo", "Orb", "Ufo"]}
+          , {"level":23, "screen":3, "color":"Platform1", "letter":"D", "birds":2, "init_speed_factor":5
+                       , "mummies":["Club", "Ufo", "Horn", "Sphere", "Orb", "Club"]}
+          , {"level":24, "screen":4, "color":"Platform3", "letter":"L", "birds":2, "init_speed_factor":5
+                       , "mummies":["Horn", "Horn", "Ufo", "Ufo", "Orb", "Orb", "Ufo"]}
+          , {"level":25, "screen":5, "color":"Platform4", "letter":"M", "birds":2, "init_speed_factor":6
+                       , "mummies":["Sphere", "Sphere", "Sphere", "Sphere", "Orb", "Orb", "Orb"]}
+          , {"level":26, "screen":1, "color":"Platform1", "letter":"P", "birds":2, "init_speed_factor":5
+                       , "mummies":["Club", "Club", "Club", "Club"]}
+          , {"level":27, "screen":2, "color":"Platform2", "letter":"H", "birds":2, "init_speed_factor":5
+                       , "mummies":["Ufo", "Ufo", "Ufo", "Ufo", "Horn"]}
+          , {"level":28, "screen":3, "color":"Platform1", "letter":"O", "birds":2, "init_speed_factor":6
+                       , "mummies":["Orb", "Orb", "Orb", "Orb", "Ufo", "Ufo"]}
+          , {"level":29, "screen":4, "color":"Platform3", "letter":"J", "birds":2, "init_speed_factor":6
+                       , "mummies":["Orb", "Club", "Ufo", "Orb", "Ufo", "Sphere", "Ufo"]}
+          , {"level":30, "screen":5, "color":"Platform4", "letter":"A", "birds":2, "init_speed_factor":6
+                       , "mummies":["Club", "Ufo", "Horn", "Sphere", "Orb", "Club", "Ufo"]}
+           ]
+}
